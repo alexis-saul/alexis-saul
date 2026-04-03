@@ -20,7 +20,10 @@ Durante mi formación he trabajado en proyectos donde he implementado lógica co
 
 ---
 
-##📂 Proyectos
+## 📂 Proyectos
+
+---
+
 -Proyecto 1 Web_project_expenses-es
 
 Descripción
