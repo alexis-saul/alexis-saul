@@ -7,6 +7,8 @@ Decidí comenzar este camino en el desarrollo web porque me llamó la atención 
 
 Durante mi formación he trabajado en proyectos donde he implementado lógica con JavaScript, manipulación del DOM y consumo de APIs, lo que me ha permitido entender cómo funcionan las aplicaciones modernas.
 
+---
+
 ## 🛠️ Tecnologías y herramientas
 -HTML5
 -CSS3
@@ -15,6 +17,8 @@ Durante mi formación he trabajado en proyectos donde he implementado lógica co
 -Responsive Design
 -Codigo Asíncrono
 -Git
+
+---
 
 ##📂 Proyectos
 -Proyecto 1 Web_project_expenses-es
@@ -32,6 +36,8 @@ Tecnologías
 
 #Repositorio: https://github.com/alexis-saul/web_project_expenses_es.git
 
+---
+
 -Proyecto 2 Web_project_around_es
 
 Descripción
@@ -46,6 +52,8 @@ Tecnologías
 -APIs REST
 
 #Repositorio: https://github.com/alexis-saul/web_project_around_es.git
+
+---
 
 ##Contacto
 
