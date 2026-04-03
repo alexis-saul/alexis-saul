@@ -32,12 +32,12 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios gest
 La aplicación fue desarrollada como parte de mi formación en TripleTen, enfocándome en la implementación de lógica con JavaScript y manipulación del DOM.
 
 Tecnologías
--HTML5
--CSS3
--JavaScript
--Manipulación del DOM
+- HTML5
+- CSS3
+- JavaScript
+- Manipulación del DOM
 
-#Repositorio: https://github.com/alexis-saul/web_project_expenses_es.git
+Repositorio: https://github.com/alexis-saul/web_project_expenses_es.git
 
 ---
 
@@ -49,16 +49,16 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios visu
 La aplicación está conectada a un servidor mediante una API, lo que permite trabajar con datos reales de manera dinámica.
 
 Tecnologías
--HTML5
--CSS3
--JavaScript Asíncrono
--APIs REST
+- HTML5
+- CSS3
+- JavaScript Asíncrono
+- APIs REST
 
-#Repositorio: https://github.com/alexis-saul/web_project_around_es.git
+Repositorio: https://github.com/alexis-saul/web_project_around_es.git
 
 ---
 
-##Contacto
+## Contacto
 
 -Linkendln: https://www.linkedin.com/in/alexis-castillo-gonzalez/
 -Email: alexiscastillo856@gmail.com
