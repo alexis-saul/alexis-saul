@@ -1,7 +1,7 @@
 ## 👋Hola, me llamo Alexis Castillo
 Desarrollador Web Full Stack en formación | Bootcamp Tripleten
 
-#🚀 Soy un desarrollador web en formación en TripleTen, enfocado en crear aplicaciones web funcionales e interactivas utilizando HTML, CSS y JavaScript. 
+🚀 Soy un desarrollador web en formación en TripleTen, enfocado en crear aplicaciones web funcionales e interactivas utilizando HTML, CSS y JavaScript. 
 
 Decidí comenzar este camino en el desarrollo web porque me llamó la atención cómo funcionan las páginas por dentro y la posibilidad de construir cosas desde cero. Me motiva aprender constantemente y mejorar mis habilidades para crear soluciones reales a través del código.
 
