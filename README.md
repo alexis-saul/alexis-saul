@@ -60,8 +60,8 @@ Repositorio: https://github.com/alexis-saul/web_project_around_es.git
 
 ## Contacto
 
--Linkendln: https://www.linkedin.com/in/alexis-castillo-gonzalez/
--Email: alexiscastillo856@gmail.com
+- Linkendln: https://www.linkedin.com/in/alexis-castillo-gonzalez/
+- Email: alexiscastillo856@gmail.com
 
 
 
