@@ -10,13 +10,13 @@ Durante mi formación he trabajado en proyectos donde he implementado lógica co
 ---
 
 ## 🛠️ Tecnologías y herramientas
--HTML5
--CSS3
--JavaScript
--Programación Orientada a Objetos
--Responsive Design
--Codigo Asíncrono
--Git
+- HTML5
+- CSS3
+- JavaScript
+- Programación Orientada a Objetos
+- Responsive Design
+- Codigo Asíncrono
+- Git
 
 ---
 
